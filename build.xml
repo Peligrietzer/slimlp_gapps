@@ -75,7 +75,6 @@
           <exclude name="system/app/Chrome/**"/>
           <exclude name="system/app/Drive/**"/>
           <exclude name="system/app/GenieWidget/**"/>
-          <exclude name="system/app/GoogleHome/**"/>
           <exclude name="system/app/GoogleTTS/**"/>
           <exclude name="system/app/Keep/**"/>
           <exclude name="system/app/Keyboard/**"/>
@@ -86,8 +85,12 @@
           <exclude name="system/app/Street/**"/>
           <exclude name="system/app/Translate/**"/>
           <exclude name="system/app/Wallet/**"/>
+          <exclude name="system/app/Hangouts/**"/>
+          <exclude name="system/app/HangoutsDialer/**"/>
+          <exclude name="system/priv-app/talkback//**"/>
+          <exclude name="system/app/ExchangeServices/**"/>
+          <exclude name="system/app/Gmail2/Gmail2/**"/>
           <exclude name="system/app/YouTube/**"/>
-          <exclude name="system/priv-app/Velvet/**"/>
           <exclude name="system/tts/**"/>
           <exclude name="system/usr/**"/>
           <exclude name="system/vendor/**"/>
